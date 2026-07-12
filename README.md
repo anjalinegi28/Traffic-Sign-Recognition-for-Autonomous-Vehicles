@@ -5,7 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
-![License](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Training Curves](results/training_curves.png)
 
 ---
 
@@ -53,6 +54,7 @@ Traffic-Sign-Recognition-for-Autonomous-Vehicles/
 ├── class_names.json
 ├── traffic_sign_recognition_model.h5
 ├── best_traffic_sign_model.keras
+├── traffic_sign_recognition_model.keras
 ├── results/
 ├── README.md
 ```
@@ -137,6 +139,14 @@ Prediction + Confidence Score
 
 ---
 
+## 📊 Model Performance
+| Metric | Value |
+|---|---|
+| Validation Accuracy | 99.83% |
+| Mean Per-Class Accuracy | 99.9% |
+| Classes | 43 |
+| Input Size | 32×32×3 |
+
 ## 🎯 Applications
 
 - Autonomous Vehicles
@@ -150,7 +160,7 @@ Prediction + Confidence Score
 
 ## 📚 Dataset
 
-The model is trained using the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset, which contains **43 traffic sign classes** and is widely used for traffic sign recognition research. :contentReference[oaicite:0]{index=0}
+The model is trained using the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset, which contains **43 traffic sign classes** and is widely used for traffic sign recognition research. 
 
 ---
 
