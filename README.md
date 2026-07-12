@@ -47,13 +47,12 @@ This project uses a Convolutional Neural Network (CNN) trained on traffic sign i
 ## 📂 Project Structure
 
 ```text
+
 Traffic-Sign-Recognition-for-Autonomous-Vehicles/
 │
 ├── predict.py
 ├── webcam_live.py
 ├── class_names.json
-├── traffic_sign_recognition_model.h5
-├── best_traffic_sign_model.keras
 ├── traffic_sign_recognition_model.keras
 ├── results/
 ├── README.md
