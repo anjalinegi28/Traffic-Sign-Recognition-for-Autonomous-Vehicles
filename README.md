@@ -1,12 +1,11 @@
 # 🚦 Traffic Sign Recognition for Autonomous Vehicles
 
-> An AI-powered Traffic Sign Recognition system built using **Deep Learning**, **TensorFlow**, **OpenCV**, and **Python** to accurately classify traffic signs from images and support intelligent transportation systems.
+> 📌 Developed as part of an AI/ML Internship Project.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Training Curves](results/training_curves.png)
+An AI-powered Traffic Sign Recognition system built using **Deep Learning**, **TensorFlow**, **OpenCV**, and **Python** to accurately classify traffic signs from images and support intelligent transportation systems.
+
+
+🐍 Python 3.11 • 🧠 TensorFlow 2.x • 👁️ OpenCV • 🎯 Image Classification • 📄 MIT License • ✅ Completed
 
 ---
 
@@ -174,24 +173,14 @@ The model is trained using the **German Traffic Sign Recognition Benchmark (GTSR
 
 ---
 
-## 👩‍💻 Author
+##  Acknowledgements
 
-**Anjali Negi**
-
-
-
----
-
-## ⭐ Support
-
-If you found this project helpful,
-
-⭐ Star this repository
-
-🍴 Fork it
-
-💡 Feel free to contribute or suggest improvements.
+- Dataset: **[GTSRB — German Traffic Sign Recognition Benchmark](https://benchmark.ini.rub.de/gtsrb_news.html)** by Institut für Neuroinformatik, Ruhr-Universität Bochum.
+- Internship Organization: **InLighnX Global**
+- Author: **[Anjali Negi](https://github.com/anjalinegi28)**
 
 ---
+
+
 
 ### Thank You !
