@@ -5,7 +5,7 @@
 An AI-powered Traffic Sign Recognition system built using **Deep Learning**, **TensorFlow**, **OpenCV**, and **Python** to accurately classify traffic signs from images and support intelligent transportation systems.
 
 
-🐍 Python 3.11 • 🧠 TensorFlow 2.x • 👁️ OpenCV • 🎯 Image Classification • 📄 MIT License • ✅ Completed
+🐍 Python 3.11 • 🧠 TensorFlow 2.x • 👁️ OpenCV • 🎯 Image Classification •  ✅ Completed
 
 ---
 
